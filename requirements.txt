@@ -1,0 +1,4 @@
+tqdm==4.50.2
+opencv-python
+nvidia-pyindex
+tritonclient[all]
